@@ -5,4 +5,6 @@ The aim was to develop and validate prognostic clinical prediction models for CR
 
 -Notes-  
 
-PLANNCR, Partial Logistic Artificial Neural Network for Competing Risks; RSFCR, Random Survival Forests for Competing Risks.
+PLANNCR, Partial Logistic Artificial Neural Network for Competing Risks;
+
+RSFCR, Random Survival Forests for Competing Risks.
